@@ -1,0 +1,29 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Add</title>
+</head>
+<body>
+    <div>
+        <form action="/Phone/AddSave" method="post">
+            <label for="FirstName">First Name:</label>
+            <input type="text" name="FirstName" placeholder="First name" id="FirstName" />
+            <br />
+            <label for="LastName">Last Name:</label>
+            <input type="text" name="LastName" placeholder="Last name" id="LastName" />
+            <br />
+            <label for="Phone">Phone:</label>
+            <input type="text" name="Number" placeholder="Enter phone" id="Phone" />
+            <br />
+            <input type="submit" value="Add" />
+        </form>
+    </div>
+</body>
+</html>

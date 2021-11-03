@@ -1,0 +1,12 @@
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\bin\Release\Console.exe.config
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\bin\Release\Console.exe
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\bin\Release\Console.pdb
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\bin\Release\WCF.dll
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\bin\Release\Newtonsoft.Json.dll
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\bin\Release\WCF.pdb
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\bin\Release\Newtonsoft.Json.xml
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\obj\Release\Console.csprojAssemblyReference.cache
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\obj\Release\Console.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\obj\Release\Console.csproj.CopyComplete
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\obj\Release\Console.exe
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\obj\Release\Console.pdb

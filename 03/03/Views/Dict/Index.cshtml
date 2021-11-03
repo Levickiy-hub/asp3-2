@@ -1,0 +1,38 @@
+
+@using _03.Models
+@{
+    Layout = null;
+    List<Data> data = ViewBag.getall;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View</title>
+</head>
+<body>
+    <table border="1">
+        <tr>
+            <th>ID</th>
+            <th>NAME</th>
+            <th>Number</th>
+            <th>Update</th>
+            <th>Delete</th>
+        </tr>
+        @foreach (var d in data)
+        {
+    <tr>
+        <td>@d.Id</td>
+        <td>@d.Name</td>
+        <td>+@d.Phone</td>
+        <td><a href="/dict/update?id=@d.Id">Update</a></td>
+        <td><a href="/dict/delete?id=@d.Id">Delete</a></td>
+    </tr>
+        }
+    </table>
+
+    <a href="/dict/add">Insert</a>
+</body>
+</html>

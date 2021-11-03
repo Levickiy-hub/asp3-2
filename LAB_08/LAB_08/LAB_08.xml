@@ -1,0 +1,92 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>LAB_08</name>
+    </assembly>
+    <members>
+        <member name="M:LAB_08.Controllers.PhonebookController.GetAll">
+            <summary>
+            Get All Users
+            </summary>
+            <returns>User list</returns>
+        </member>
+        <member name="M:LAB_08.Controllers.PhonebookController.Get(System.Int32)">
+            <summary>
+            Get User by Id
+            </summary>
+            <param name="id">User Id</param>
+            <response code="200">User is found</response>
+            <response code="404">User is not found</response>
+            <returns>User</returns>
+        </member>
+        <member name="M:LAB_08.Controllers.PhonebookController.Add(LAB_08.Models.User)">
+            <summary>
+            Add User
+            </summary>
+            <param name="phonebook"></param>
+            <response code="200">User is added</response>
+            <response code="400">User is added</response>
+            <returns>User</returns>
+        </member>
+        <member name="M:LAB_08.Controllers.PhonebookController.Update(LAB_08.Models.User)">
+            <summary>
+            Update User by Id
+            </summary>
+            <response code="200">User is updated</response>
+            <response code="400">User is not updated</response>
+            <param name="phonebook"></param>
+            <returns>User</returns>
+        </member>
+        <member name="M:LAB_08.Controllers.PhonebookController.Delete(System.Int32)">
+            <summary>
+            Delete User by Id
+            </summary>
+            <response code="200">User is deleted</response>
+            <response code="404">User is not found</response>
+            <param name="id">User Id</param>
+            <returns>User</returns>
+        </member>
+        <member name="P:LAB_08.Models.User.Id">
+            <summary>
+            User Id
+            </summary>
+            <example>1</example>
+        </member>
+        <member name="P:LAB_08.Models.User.LastName">
+            <summary>
+            User Surname
+            </summary>
+            <example>levickiy</example>
+        </member>
+        <member name="P:LAB_08.Models.User.FirstName">
+            <summary>
+            User Name
+            </summary>
+            <example>Slava</example>
+        </member>
+        <member name="P:LAB_08.Models.User.Email">
+            <summary>
+            User e-mail
+            </summary>
+            <example>levickiy@bk.ru</example>
+        </member>
+        <member name="P:LAB_08.Models.User.Password">
+            <summary>
+            password
+            </summary>
+            <example>1111</example>
+        </member>
+        <member name="P:LAB_08.Models.User.Status">
+            <summary>
+            active/passive
+            </summary>
+            <example>Active</example>
+        </member>
+        <member name="P:LAB_08.Models.User.Role">
+            <summary>
+            admin/customer/HR
+            </summary>
+            <example>customer</example>
+        </member>
+    </members>
+</doc>

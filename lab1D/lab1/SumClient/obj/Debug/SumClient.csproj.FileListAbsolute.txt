@@ -1,0 +1,20 @@
+C:\Users\alber\OneDrive\3course\6semestr\ASP\labs\lab1\SumClient\obj\Debug\SumClient.csprojAssemblyReference.cache
+C:\Users\alber\OneDrive\3course\6semestr\ASP\labs\lab1\SumClient\obj\Debug\SumClient.Form1.resources
+C:\Users\alber\OneDrive\3course\6semestr\ASP\labs\lab1\SumClient\obj\Debug\SumClient.Properties.Resources.resources
+C:\Users\alber\OneDrive\3course\6semestr\ASP\labs\lab1\SumClient\obj\Debug\SumClient.csproj.GenerateResource.cache
+C:\Users\alber\OneDrive\3course\6semestr\ASP\labs\lab1\SumClient\obj\Debug\SumClient.csproj.CoreCompileInputs.cache
+C:\Users\alber\OneDrive\3course\6semestr\ASP\labs\lab1\SumClient\bin\Debug\SumClient.exe.config
+C:\Users\alber\OneDrive\3course\6semestr\ASP\labs\lab1\SumClient\bin\Debug\SumClient.exe
+C:\Users\alber\OneDrive\3course\6semestr\ASP\labs\lab1\SumClient\bin\Debug\SumClient.pdb
+C:\Users\alber\OneDrive\3course\6semestr\ASP\labs\lab1\SumClient\obj\Debug\SumClient.exe
+C:\Users\alber\OneDrive\3course\6semestr\ASP\labs\lab1\SumClient\obj\Debug\SumClient.pdb
+C:\Users\dimon\Downloads\Telegram Desktop\lab1\lab1\SumClient\bin\Debug\SumClient.exe.config
+C:\Users\dimon\Downloads\Telegram Desktop\lab1\lab1\SumClient\bin\Debug\SumClient.exe
+C:\Users\dimon\Downloads\Telegram Desktop\lab1\lab1\SumClient\bin\Debug\SumClient.pdb
+C:\Users\dimon\Downloads\Telegram Desktop\lab1\lab1\SumClient\obj\Debug\SumClient.csprojAssemblyReference.cache
+C:\Users\dimon\Downloads\Telegram Desktop\lab1\lab1\SumClient\obj\Debug\SumClient.Form1.resources
+C:\Users\dimon\Downloads\Telegram Desktop\lab1\lab1\SumClient\obj\Debug\SumClient.Properties.Resources.resources
+C:\Users\dimon\Downloads\Telegram Desktop\lab1\lab1\SumClient\obj\Debug\SumClient.csproj.GenerateResource.cache
+C:\Users\dimon\Downloads\Telegram Desktop\lab1\lab1\SumClient\obj\Debug\SumClient.csproj.CoreCompileInputs.cache
+C:\Users\dimon\Downloads\Telegram Desktop\lab1\lab1\SumClient\obj\Debug\SumClient.exe
+C:\Users\dimon\Downloads\Telegram Desktop\lab1\lab1\SumClient\obj\Debug\SumClient.pdb

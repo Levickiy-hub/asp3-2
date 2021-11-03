@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "VgEAEBiMH5Y1or32abmODyPLiQN+dQRfESkP/4MiHGzeXbt6+H3rB4BrRmeqYj3mvYM7lNSd0yhOndOcbW5COQ==",
+  "success": true,
+  "projectFilePath": "D:\\Trash\\3-2\\ASP\\6\\lab6\\DB_JSON\\DB_JSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\37529\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

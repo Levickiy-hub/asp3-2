@@ -1,0 +1,18 @@
+﻿@model IEnumerable<PhoneDictionary.Phone>
+
+@{ ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+@section Header {
+    <h2>Список телефонов</h2>
+}
+
+<p><a href="/Dict/Add">Добавить</a></p>
+<div class="phonesCardArea">
+    @foreach (var item in Model)
+    {
+        @Html.Partial("PhoneItem", (object)item)
+    }
+</div>
+
+

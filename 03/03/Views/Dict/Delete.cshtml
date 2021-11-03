@@ -1,0 +1,23 @@
+﻿@using _03.Models
+@{
+    Layout = null;
+    Data delete = ViewBag.delete;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+</head>
+<body>
+    <div>
+        <p>Name: @delete.Name; Phone: +@delete.Phone</p>
+        <form action="/Dict/DeleteSave" method="post">
+            <input type="text" name="id" id="id" value="@delete.Id" readonly />
+            <input type="submit" value="Delete" />
+        </form>
+    </div>
+</body>
+</html>

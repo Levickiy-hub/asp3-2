@@ -1,0 +1,58 @@
+D:\ASP\Лабы\Lab_7c\Console\bin\Debug\Console.exe.config
+D:\ASP\Лабы\Lab_7c\Console\bin\Debug\Console.exe
+D:\ASP\Лабы\Lab_7c\Console\bin\Debug\Console.pdb
+D:\ASP\Лабы\Lab_7c\Console\bin\Debug\WCF.dll
+D:\ASP\Лабы\Lab_7c\Console\bin\Debug\Newtonsoft.Json.dll
+D:\ASP\Лабы\Lab_7c\Console\bin\Debug\WCF.pdb
+D:\ASP\Лабы\Lab_7c\Console\bin\Debug\Newtonsoft.Json.xml
+D:\ASP\Лабы\Lab_7c\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+D:\ASP\Лабы\Lab_7c\Console\obj\Debug\Console.csproj.CopyComplete
+D:\ASP\Лабы\Lab_7c\Console\obj\Debug\Console.exe
+D:\ASP\Лабы\Lab_7c\Console\obj\Debug\Console.pdb
+E:\уник\ASP\KEEEEEEEK7LABA\Lab_7c\Console\bin\Debug\Console.exe.config
+E:\уник\ASP\KEEEEEEEK7LABA\Lab_7c\Console\bin\Debug\Console.exe
+E:\уник\ASP\KEEEEEEEK7LABA\Lab_7c\Console\bin\Debug\Console.pdb
+E:\уник\ASP\KEEEEEEEK7LABA\Lab_7c\Console\bin\Debug\WCF.dll
+E:\уник\ASP\KEEEEEEEK7LABA\Lab_7c\Console\bin\Debug\Newtonsoft.Json.dll
+E:\уник\ASP\KEEEEEEEK7LABA\Lab_7c\Console\bin\Debug\WCF.pdb
+E:\уник\ASP\KEEEEEEEK7LABA\Lab_7c\Console\bin\Debug\Newtonsoft.Json.xml
+E:\уник\ASP\KEEEEEEEK7LABA\Lab_7c\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+E:\уник\ASP\KEEEEEEEK7LABA\Lab_7c\Console\obj\Debug\Console.csproj.CopyComplete
+E:\уник\ASP\KEEEEEEEK7LABA\Lab_7c\Console\obj\Debug\Console.exe
+E:\уник\ASP\KEEEEEEEK7LABA\Lab_7c\Console\obj\Debug\Console.pdb
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\bin\Debug\Console.exe.config
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\bin\Debug\Console.exe
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\bin\Debug\Console.pdb
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\bin\Debug\WCF.dll
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\bin\Debug\Newtonsoft.Json.dll
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\bin\Debug\WCF.pdb
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\bin\Debug\Newtonsoft.Json.xml
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\obj\Debug\Console.csprojAssemblyReference.cache
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\obj\Debug\Console.csproj.CopyComplete
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\obj\Debug\Console.exe
+C:\Users\user\Downloads\KEEEEEEEK7LABA (1)\Lab_7c\Console\obj\Debug\Console.pdb
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\Lab_7c\Console\bin\Debug\Console.exe.config
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\Lab_7c\Console\bin\Debug\Console.exe
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\Lab_7c\Console\bin\Debug\Console.pdb
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\Lab_7c\Console\bin\Debug\WCF.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\Lab_7c\Console\bin\Debug\Newtonsoft.Json.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\Lab_7c\Console\bin\Debug\WCF.pdb
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\Lab_7c\Console\bin\Debug\Newtonsoft.Json.xml
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\Lab_7c\Console\obj\Debug\Console.csprojAssemblyReference.cache
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\Lab_7c\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\Lab_7c\Console\obj\Debug\Console.csproj.CopyComplete
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\Lab_7c\Console\obj\Debug\Console.exe
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\Lab_7c\Console\obj\Debug\Console.pdb
+D:\Trash\3-2\ASP\7\Lab_7c\Console\bin\Debug\Console.exe
+D:\Trash\3-2\ASP\7\Lab_7c\Console\bin\Debug\Console.pdb
+D:\Trash\3-2\ASP\7\Lab_7c\Console\bin\Debug\WCF.dll
+D:\Trash\3-2\ASP\7\Lab_7c\Console\bin\Debug\Newtonsoft.Json.dll
+D:\Trash\3-2\ASP\7\Lab_7c\Console\bin\Debug\WCF.pdb
+D:\Trash\3-2\ASP\7\Lab_7c\Console\bin\Debug\Newtonsoft.Json.xml
+D:\Trash\3-2\ASP\7\Lab_7c\Console\obj\Debug\Console.csproj.AssemblyReference.cache
+D:\Trash\3-2\ASP\7\Lab_7c\Console\obj\Debug\Console.csproj.CoreCompileInputs.cache
+D:\Trash\3-2\ASP\7\Lab_7c\Console\obj\Debug\Console.csproj.CopyComplete
+D:\Trash\3-2\ASP\7\Lab_7c\Console\obj\Debug\Console.exe
+D:\Trash\3-2\ASP\7\Lab_7c\Console\obj\Debug\Console.pdb
+D:\Trash\3-2\ASP\7\Lab_7c\Console\bin\Debug\Console.exe.config

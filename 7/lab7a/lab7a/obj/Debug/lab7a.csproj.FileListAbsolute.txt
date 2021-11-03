@@ -1,0 +1,380 @@
+D:\6sem\ASP\lab7a\lab7a\bin\lab7a.dll.config
+D:\6sem\ASP\lab7a\lab7a\bin\lab7a.dll
+D:\6sem\ASP\lab7a\lab7a\bin\lab7a.pdb
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\csc.exe
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\csc.exe.config
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\csc.rsp
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\csi.exe
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\csi.exe.config
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\csi.rsp
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\Microsoft.Managed.Core.targets
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.AppContext.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Collections.Immutable.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Console.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Globalization.Calendars.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.IO.Compression.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.IO.FileSystem.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Net.Http.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Net.Sockets.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Reflection.Metadata.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.ValueTuple.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Xml.XmlDocument.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Xml.XPath.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\vbc.exe
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\vbc.exe.config
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\vbc.rsp
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\VBCSCompiler.exe
+D:\6sem\ASP\lab7a\lab7a\bin\roslyn\VBCSCompiler.exe.config
+D:\6sem\ASP\lab7a\lab7a\bin\Antlr3.Runtime.dll
+D:\6sem\ASP\lab7a\lab7a\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\6sem\ASP\lab7a\lab7a\bin\Microsoft.Web.Infrastructure.dll
+D:\6sem\ASP\lab7a\lab7a\bin\Newtonsoft.Json.dll
+D:\6sem\ASP\lab7a\lab7a\bin\System.Net.Http.Formatting.dll
+D:\6sem\ASP\lab7a\lab7a\bin\System.Web.Helpers.dll
+D:\6sem\ASP\lab7a\lab7a\bin\System.Web.Http.dll
+D:\6sem\ASP\lab7a\lab7a\bin\System.Web.Http.WebHost.dll
+D:\6sem\ASP\lab7a\lab7a\bin\System.Web.Mvc.dll
+D:\6sem\ASP\lab7a\lab7a\bin\System.Web.Optimization.dll
+D:\6sem\ASP\lab7a\lab7a\bin\System.Web.Razor.dll
+D:\6sem\ASP\lab7a\lab7a\bin\System.Web.WebPages.Deployment.dll
+D:\6sem\ASP\lab7a\lab7a\bin\System.Web.WebPages.dll
+D:\6sem\ASP\lab7a\lab7a\bin\System.Web.WebPages.Razor.dll
+D:\6sem\ASP\lab7a\lab7a\bin\WebGrease.dll
+D:\6sem\ASP\lab7a\lab7a\bin\Newtonsoft.Json.xml
+D:\6sem\ASP\lab7a\lab7a\bin\System.Net.Http.Formatting.xml
+D:\6sem\ASP\lab7a\lab7a\bin\System.Web.Helpers.xml
+D:\6sem\ASP\lab7a\lab7a\bin\System.Web.Http.xml
+D:\6sem\ASP\lab7a\lab7a\bin\System.Web.Http.WebHost.xml
+D:\6sem\ASP\lab7a\lab7a\bin\System.Web.Mvc.xml
+D:\6sem\ASP\lab7a\lab7a\bin\System.Web.Optimization.xml
+D:\6sem\ASP\lab7a\lab7a\bin\System.Web.Razor.xml
+D:\6sem\ASP\lab7a\lab7a\bin\System.Web.WebPages.xml
+D:\6sem\ASP\lab7a\lab7a\bin\System.Web.WebPages.Deployment.xml
+D:\6sem\ASP\lab7a\lab7a\bin\System.Web.WebPages.Razor.xml
+D:\6sem\ASP\lab7a\lab7a\bin\Antlr3.Runtime.pdb
+D:\6sem\ASP\lab7a\lab7a\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\6sem\ASP\lab7a\lab7a\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\6sem\ASP\lab7a\lab7a\bin\ru\System.Web.Helpers.resources.dll
+D:\6sem\ASP\lab7a\lab7a\bin\ru\System.Web.Http.resources.dll
+D:\6sem\ASP\lab7a\lab7a\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\6sem\ASP\lab7a\lab7a\bin\ru\System.Web.Mvc.resources.dll
+D:\6sem\ASP\lab7a\lab7a\bin\ru\System.Web.Optimization.resources.dll
+D:\6sem\ASP\lab7a\lab7a\bin\ru\System.Web.Razor.resources.dll
+D:\6sem\ASP\lab7a\lab7a\bin\ru\System.Web.WebPages.resources.dll
+D:\6sem\ASP\lab7a\lab7a\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\6sem\ASP\lab7a\lab7a\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\6sem\ASP\lab7a\lab7a\obj\Debug\lab7a.csprojAssemblyReference.cache
+D:\6sem\ASP\lab7a\lab7a\obj\Debug\lab7a.csproj.CoreCompileInputs.cache
+D:\6sem\ASP\lab7a\lab7a\obj\Debug\lab7a.csproj.CopyComplete
+D:\6sem\ASP\lab7a\lab7a\obj\Debug\lab7a.dll
+D:\6sem\ASP\lab7a\lab7a\obj\Debug\lab7a.pdb
+D:\6sem\ASP\lab7b\lab7a\bin\lab7a.dll.config
+D:\6sem\ASP\lab7b\lab7a\bin\lab7a.dll
+D:\6sem\ASP\lab7b\lab7a\bin\lab7a.pdb
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\csc.exe
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\csc.exe.config
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\csc.rsp
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\csi.exe
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\csi.exe.config
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\csi.rsp
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\Microsoft.Managed.Core.targets
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.AppContext.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Collections.Immutable.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Console.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Globalization.Calendars.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.IO.Compression.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.IO.FileSystem.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Net.Http.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Net.Sockets.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Reflection.Metadata.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.ValueTuple.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Xml.XmlDocument.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Xml.XPath.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\vbc.exe
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\vbc.exe.config
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\vbc.rsp
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\VBCSCompiler.exe
+D:\6sem\ASP\lab7b\lab7a\bin\roslyn\VBCSCompiler.exe.config
+D:\6sem\ASP\lab7b\lab7a\bin\Antlr3.Runtime.dll
+D:\6sem\ASP\lab7b\lab7a\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\6sem\ASP\lab7b\lab7a\bin\Microsoft.Web.Infrastructure.dll
+D:\6sem\ASP\lab7b\lab7a\bin\Newtonsoft.Json.dll
+D:\6sem\ASP\lab7b\lab7a\bin\System.Net.Http.Formatting.dll
+D:\6sem\ASP\lab7b\lab7a\bin\System.Web.Helpers.dll
+D:\6sem\ASP\lab7b\lab7a\bin\System.Web.Http.dll
+D:\6sem\ASP\lab7b\lab7a\bin\System.Web.Http.WebHost.dll
+D:\6sem\ASP\lab7b\lab7a\bin\System.Web.Mvc.dll
+D:\6sem\ASP\lab7b\lab7a\bin\System.Web.Optimization.dll
+D:\6sem\ASP\lab7b\lab7a\bin\System.Web.Razor.dll
+D:\6sem\ASP\lab7b\lab7a\bin\System.Web.WebPages.Deployment.dll
+D:\6sem\ASP\lab7b\lab7a\bin\System.Web.WebPages.dll
+D:\6sem\ASP\lab7b\lab7a\bin\System.Web.WebPages.Razor.dll
+D:\6sem\ASP\lab7b\lab7a\bin\WebGrease.dll
+D:\6sem\ASP\lab7b\lab7a\bin\Newtonsoft.Json.xml
+D:\6sem\ASP\lab7b\lab7a\bin\System.Net.Http.Formatting.xml
+D:\6sem\ASP\lab7b\lab7a\bin\System.Web.Helpers.xml
+D:\6sem\ASP\lab7b\lab7a\bin\System.Web.Http.xml
+D:\6sem\ASP\lab7b\lab7a\bin\System.Web.Http.WebHost.xml
+D:\6sem\ASP\lab7b\lab7a\bin\System.Web.Mvc.xml
+D:\6sem\ASP\lab7b\lab7a\bin\System.Web.Optimization.xml
+D:\6sem\ASP\lab7b\lab7a\bin\System.Web.Razor.xml
+D:\6sem\ASP\lab7b\lab7a\bin\System.Web.WebPages.xml
+D:\6sem\ASP\lab7b\lab7a\bin\System.Web.WebPages.Deployment.xml
+D:\6sem\ASP\lab7b\lab7a\bin\System.Web.WebPages.Razor.xml
+D:\6sem\ASP\lab7b\lab7a\bin\Antlr3.Runtime.pdb
+D:\6sem\ASP\lab7b\lab7a\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\6sem\ASP\lab7b\lab7a\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\6sem\ASP\lab7b\lab7a\bin\ru\System.Web.Helpers.resources.dll
+D:\6sem\ASP\lab7b\lab7a\bin\ru\System.Web.Http.resources.dll
+D:\6sem\ASP\lab7b\lab7a\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\6sem\ASP\lab7b\lab7a\bin\ru\System.Web.Mvc.resources.dll
+D:\6sem\ASP\lab7b\lab7a\bin\ru\System.Web.Optimization.resources.dll
+D:\6sem\ASP\lab7b\lab7a\bin\ru\System.Web.Razor.resources.dll
+D:\6sem\ASP\lab7b\lab7a\bin\ru\System.Web.WebPages.resources.dll
+D:\6sem\ASP\lab7b\lab7a\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\6sem\ASP\lab7b\lab7a\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\6sem\ASP\lab7b\lab7a\obj\Debug\lab7a.csprojAssemblyReference.cache
+D:\6sem\ASP\lab7b\lab7a\obj\Debug\lab7a.csproj.CoreCompileInputs.cache
+D:\6sem\ASP\lab7b\lab7a\obj\Debug\lab7a.csproj.CopyComplete
+D:\6sem\ASP\lab7b\lab7a\obj\Debug\lab7a.dll
+D:\6sem\ASP\lab7b\lab7a\obj\Debug\lab7a.pdb
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\lab7a.dll.config
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\lab7a.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\lab7a.pdb
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\csc.exe
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\csc.exe.config
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\csc.rsp
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\csi.exe
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\csi.exe.config
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\csi.rsp
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\Microsoft.Managed.Core.targets
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.AppContext.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Collections.Immutable.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Console.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Globalization.Calendars.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.IO.Compression.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.IO.FileSystem.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Net.Http.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Net.Sockets.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Reflection.Metadata.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.ValueTuple.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Xml.XmlDocument.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Xml.XPath.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\vbc.exe
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\vbc.exe.config
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\vbc.rsp
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\VBCSCompiler.exe
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\roslyn\VBCSCompiler.exe.config
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\Antlr3.Runtime.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\Microsoft.Web.Infrastructure.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\Newtonsoft.Json.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Net.Http.Formatting.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Web.Helpers.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Web.Http.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Web.Http.WebHost.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Web.Mvc.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Web.Optimization.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Web.Razor.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Web.WebPages.Deployment.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Web.WebPages.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Web.WebPages.Razor.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\WebGrease.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\Newtonsoft.Json.xml
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Net.Http.Formatting.xml
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Web.Helpers.xml
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Web.Http.xml
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Web.Http.WebHost.xml
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Web.Mvc.xml
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Web.Optimization.xml
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Web.Razor.xml
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Web.WebPages.xml
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Web.WebPages.Deployment.xml
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\System.Web.WebPages.Razor.xml
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\Antlr3.Runtime.pdb
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\ru\System.Web.Helpers.resources.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\ru\System.Web.Http.resources.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\ru\System.Web.Mvc.resources.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\ru\System.Web.Optimization.resources.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\ru\System.Web.Razor.resources.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\ru\System.Web.WebPages.resources.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\obj\Debug\lab7a.csprojAssemblyReference.cache
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\obj\Debug\lab7a.csproj.CoreCompileInputs.cache
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\obj\Debug\lab7a.csproj.CopyComplete
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\obj\Debug\lab7a.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7a\lab7a\obj\Debug\lab7a.pdb
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\lab7a.dll.config
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\lab7a.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\lab7a.pdb
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\csc.exe
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\csc.exe.config
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\csc.rsp
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\csi.exe
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\csi.exe.config
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\csi.rsp
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\Microsoft.Managed.Core.targets
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\Microsoft.Win32.Primitives.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.AppContext.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Collections.Immutable.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Console.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Globalization.Calendars.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.IO.Compression.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.IO.Compression.ZipFile.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.IO.FileSystem.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Net.Http.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Net.Sockets.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Reflection.Metadata.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Threading.Tasks.Extensions.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.ValueTuple.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Xml.XmlDocument.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Xml.XPath.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\vbc.exe
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\vbc.exe.config
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\vbc.rsp
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\VBCSCompiler.exe
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\roslyn\VBCSCompiler.exe.config
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\Antlr3.Runtime.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\Microsoft.Web.Infrastructure.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\Newtonsoft.Json.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Net.Http.Formatting.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Web.Helpers.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Web.Http.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Web.Http.WebHost.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Web.Mvc.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Web.Optimization.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Web.Razor.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Web.WebPages.Deployment.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Web.WebPages.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Web.WebPages.Razor.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\WebGrease.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\Newtonsoft.Json.xml
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Net.Http.Formatting.xml
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Web.Helpers.xml
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Web.Http.xml
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Web.Http.WebHost.xml
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Web.Mvc.xml
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Web.Optimization.xml
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Web.Razor.xml
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Web.WebPages.xml
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Web.WebPages.Deployment.xml
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\System.Web.WebPages.Razor.xml
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\Antlr3.Runtime.pdb
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\ru\System.Net.Http.Formatting.resources.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\ru\System.Web.Helpers.resources.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\ru\System.Web.Http.resources.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\ru\System.Web.Http.WebHost.resources.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\ru\System.Web.Mvc.resources.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\ru\System.Web.Optimization.resources.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\ru\System.Web.Razor.resources.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\ru\System.Web.WebPages.resources.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\ru\System.Web.WebPages.Deployment.resources.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\bin\ru\System.Web.WebPages.Razor.resources.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\obj\Debug\lab7a.csproj.AssemblyReference.cache
+D:\Trash\3-2\ASP\7\lab7a\lab7a\obj\Debug\lab7a.csproj.CoreCompileInputs.cache
+D:\Trash\3-2\ASP\7\lab7a\lab7a\obj\Debug\lab7a.csproj.CopyComplete
+D:\Trash\3-2\ASP\7\lab7a\lab7a\obj\Debug\lab7a.dll
+D:\Trash\3-2\ASP\7\lab7a\lab7a\obj\Debug\lab7a.pdb

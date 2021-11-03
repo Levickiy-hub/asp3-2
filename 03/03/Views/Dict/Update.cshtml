@@ -1,0 +1,30 @@
+﻿@using _03.Models
+@{
+    Layout = null;
+    Data update = ViewBag.update;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update</title>
+</head>
+<body>
+    <div>
+        <form action="/Dict/UpdateSave" method="post">
+            <label for="id">Id:</label>
+            <input type="text" name="Id" id="id" value="@update.Id" readonly/>
+            <br />
+            <label for="name">Name:</label>
+            <input type="text" name="Name" placeholder="Enter username" id="name" value="@update.Name" />
+            <br />
+            <label for="phone">Phone:</label>
+            <input type="text" name="Phone" placeholder="Enter phone" id="phone" value="@update.Phone"/>
+            <br />
+            <input type="submit" value="Update" />
+        </form>
+    </div>
+</body>
+</html>

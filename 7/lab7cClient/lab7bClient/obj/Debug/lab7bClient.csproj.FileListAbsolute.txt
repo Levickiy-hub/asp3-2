@@ -1,0 +1,40 @@
+D:\6sem\ASP\lab7bClient\lab7bClient\bin\Debug\lab7bClient.exe.config
+D:\6sem\ASP\lab7bClient\lab7bClient\bin\Debug\lab7bClient.exe
+D:\6sem\ASP\lab7bClient\lab7bClient\bin\Debug\lab7bClient.pdb
+D:\6sem\ASP\lab7bClient\lab7bClient\obj\Debug\lab7bClient.csprojAssemblyReference.cache
+D:\6sem\ASP\lab7bClient\lab7bClient\obj\Debug\lab7bClient.Form1.resources
+D:\6sem\ASP\lab7bClient\lab7bClient\obj\Debug\lab7bClient.Properties.Resources.resources
+D:\6sem\ASP\lab7bClient\lab7bClient\obj\Debug\lab7bClient.csproj.GenerateResource.cache
+D:\6sem\ASP\lab7bClient\lab7bClient\obj\Debug\lab7bClient.csproj.CoreCompileInputs.cache
+D:\6sem\ASP\lab7bClient\lab7bClient\obj\Debug\lab7bClient.exe
+D:\6sem\ASP\lab7bClient\lab7bClient\obj\Debug\lab7bClient.pdb
+D:\6sem\ASP\lab7cClient\lab7bClient\bin\Debug\lab7bClient.exe.config
+D:\6sem\ASP\lab7cClient\lab7bClient\bin\Debug\lab7bClient.exe
+D:\6sem\ASP\lab7cClient\lab7bClient\bin\Debug\lab7bClient.pdb
+D:\6sem\ASP\lab7cClient\lab7bClient\obj\Debug\lab7bClient.csprojAssemblyReference.cache
+D:\6sem\ASP\lab7cClient\lab7bClient\obj\Debug\lab7bClient.Form1.resources
+D:\6sem\ASP\lab7cClient\lab7bClient\obj\Debug\lab7bClient.Properties.Resources.resources
+D:\6sem\ASP\lab7cClient\lab7bClient\obj\Debug\lab7bClient.csproj.GenerateResource.cache
+D:\6sem\ASP\lab7cClient\lab7bClient\obj\Debug\lab7bClient.csproj.CoreCompileInputs.cache
+D:\6sem\ASP\lab7cClient\lab7bClient\obj\Debug\lab7bClient.exe
+D:\6sem\ASP\lab7cClient\lab7bClient\obj\Debug\lab7bClient.pdb
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7cClient\lab7bClient\bin\Debug\lab7bClient.exe.config
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7cClient\lab7bClient\bin\Debug\lab7bClient.exe
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7cClient\lab7bClient\bin\Debug\lab7bClient.pdb
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7cClient\lab7bClient\obj\Debug\lab7bClient.csprojAssemblyReference.cache
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7cClient\lab7bClient\obj\Debug\lab7bClient.Form1.resources
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7cClient\lab7bClient\obj\Debug\lab7bClient.Properties.Resources.resources
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7cClient\lab7bClient\obj\Debug\lab7bClient.csproj.GenerateResource.cache
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7cClient\lab7bClient\obj\Debug\lab7bClient.csproj.CoreCompileInputs.cache
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7cClient\lab7bClient\obj\Debug\lab7bClient.exe
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\7\lab7cClient\lab7bClient\obj\Debug\lab7bClient.pdb
+D:\Trash\3-2\ASP\7\lab7cClient\lab7bClient\bin\Debug\lab7bClient.exe.config
+D:\Trash\3-2\ASP\7\lab7cClient\lab7bClient\bin\Debug\lab7bClient.exe
+D:\Trash\3-2\ASP\7\lab7cClient\lab7bClient\bin\Debug\lab7bClient.pdb
+D:\Trash\3-2\ASP\7\lab7cClient\lab7bClient\obj\Debug\lab7bClient.csproj.AssemblyReference.cache
+D:\Trash\3-2\ASP\7\lab7cClient\lab7bClient\obj\Debug\lab7bClient.Form1.resources
+D:\Trash\3-2\ASP\7\lab7cClient\lab7bClient\obj\Debug\lab7bClient.Properties.Resources.resources
+D:\Trash\3-2\ASP\7\lab7cClient\lab7bClient\obj\Debug\lab7bClient.csproj.GenerateResource.cache
+D:\Trash\3-2\ASP\7\lab7cClient\lab7bClient\obj\Debug\lab7bClient.csproj.CoreCompileInputs.cache
+D:\Trash\3-2\ASP\7\lab7cClient\lab7bClient\obj\Debug\lab7bClient.exe
+D:\Trash\3-2\ASP\7\lab7cClient\lab7bClient\obj\Debug\lab7bClient.pdb

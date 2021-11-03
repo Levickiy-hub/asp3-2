@@ -1,0 +1,16 @@
+﻿@model PhoneDictionary.Phone
+@using lab6.Helpers
+@{ ViewBag.Title = "Update";
+    Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+@section Header {
+    <h2>Обновить запись в справочнике</h2>
+}
+
+
+<div>
+    @Html.UpdatePhoneForm((object)Model)
+
+    @Html.ActionLink("К списку телефонов", "Index")
+</div>
+

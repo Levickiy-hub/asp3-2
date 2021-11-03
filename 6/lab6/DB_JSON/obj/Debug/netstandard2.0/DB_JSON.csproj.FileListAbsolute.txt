@@ -1,0 +1,36 @@
+D:\6sem\ASP\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.csprojAssemblyReference.cache
+D:\6sem\ASP\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.AssemblyInfoInputs.cache
+D:\6sem\ASP\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.AssemblyInfo.cs
+D:\6sem\ASP\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.csproj.CoreCompileInputs.cache
+D:\6sem\ASP\lab6\DB_JSON\bin\Debug\netstandard2.0\DB_JSON.deps.json
+D:\6sem\ASP\lab6\DB_JSON\bin\Debug\netstandard2.0\DB_JSON.dll
+D:\6sem\ASP\lab6\DB_JSON\bin\Debug\netstandard2.0\DB_JSON.pdb
+D:\6sem\ASP\lab6\DB_JSON\bin\Debug\netstandard2.0\PhoneDictionary.dll
+D:\6sem\ASP\lab6\DB_JSON\bin\Debug\netstandard2.0\PhoneDictionary.pdb
+D:\6sem\ASP\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.csproj.CopyComplete
+D:\6sem\ASP\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.dll
+D:\6sem\ASP\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.pdb
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\6\lab6\DB_JSON\bin\Debug\netstandard2.0\DB_JSON.deps.json
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\6\lab6\DB_JSON\bin\Debug\netstandard2.0\DB_JSON.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\6\lab6\DB_JSON\bin\Debug\netstandard2.0\DB_JSON.pdb
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\6\lab6\DB_JSON\bin\Debug\netstandard2.0\PhoneDictionary.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\6\lab6\DB_JSON\bin\Debug\netstandard2.0\PhoneDictionary.pdb
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\6\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.csprojAssemblyReference.cache
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\6\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.AssemblyInfoInputs.cache
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\6\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.AssemblyInfo.cs
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\6\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.csproj.CoreCompileInputs.cache
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\6\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.csproj.CopyComplete
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\6\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.dll
+D:\University\3 курс 2 сем\ПИС\Лабораторные работы\6\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.pdb
+D:\Trash\3-2\ASP\6\lab6\DB_JSON\bin\Debug\netstandard2.0\DB_JSON.deps.json
+D:\Trash\3-2\ASP\6\lab6\DB_JSON\bin\Debug\netstandard2.0\DB_JSON.dll
+D:\Trash\3-2\ASP\6\lab6\DB_JSON\bin\Debug\netstandard2.0\DB_JSON.pdb
+D:\Trash\3-2\ASP\6\lab6\DB_JSON\bin\Debug\netstandard2.0\PhoneDictionary.dll
+D:\Trash\3-2\ASP\6\lab6\DB_JSON\bin\Debug\netstandard2.0\PhoneDictionary.pdb
+D:\Trash\3-2\ASP\6\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.csproj.CoreCompileInputs.cache
+D:\Trash\3-2\ASP\6\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.AssemblyInfoInputs.cache
+D:\Trash\3-2\ASP\6\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.AssemblyInfo.cs
+D:\Trash\3-2\ASP\6\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.csproj.CopyComplete
+D:\Trash\3-2\ASP\6\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.dll
+D:\Trash\3-2\ASP\6\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.pdb
+D:\Trash\3-2\ASP\6\lab6\DB_JSON\obj\Debug\netstandard2.0\DB_JSON.csproj.AssemblyReference.cache

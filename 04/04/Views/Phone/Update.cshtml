@@ -1,0 +1,33 @@
+﻿@using _04.Models
+@{
+    Layout = null;
+    Phone update = ViewBag.update;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Update</title>
+</head>
+<body>
+    <div>
+        <form action="/Phone/UpdateSave" method="post">
+            <label for="id">Id:</label>
+            <input type="text" name="PhoneId" id="id" value="@update.PhoneId" readonly />
+            <br />
+            <label for="FirstName">First Name:</label>
+            <input type="text" name="FirstName" placeholder="First name" id="FirstName"  value="@update.FirstName"/>
+            <br />
+            <label for="LastName">Last Name:</label>
+            <input type="text" name="LastName" placeholder="Last name" id="LastName" value="@update.LastName"/>
+            <br />
+            <label for="Phone">Phone:</label>
+            <input type="text" name="Number" placeholder="Enter phone" id="Phone" value="@update.Number"/>
+            <br />
+            <input type="submit" value="Update" />
+        </form>
+    </div>
+</body>
+</html>

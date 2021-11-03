@@ -1,0 +1,69 @@
+﻿<!DOCTYPE html>
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="utf-8" />
+    <script type="text/javascript" src="https://code.jquery.com/jquery-3.5.1.min.js"></script>
+     <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+    <title>lab1</title>
+</head>
+<body>
+    <div class="container">
+        <div class="row text-center">
+            <div class="col-4">
+                <form class="form_pulpit">
+                    <div class="form-group">
+                        <label for="name">X</label>
+                        <input type="number" class="form-control bodyP" name="x" id="x" placeholder="x">
+                    </div>
+                    <div class="form-group">
+                        <label for="name">Y</label>
+                        <input type="number" class="form-control bodyP" name="y" id="y" placeholder="y">
+                    </div>
+                </form>
+            </div>
+            <div class="col-2">
+                <div>
+                    <div>
+                        <div>
+                            <button class="getMul btn btn-success col-md-8" value="Get">GET MUL</button>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="col-6">
+                <div class="content"></div>
+            </div>
+        </div>
+    </div>
+    <script>
+
+
+        let getFormBody = () => {
+            let data = Array.from(document.getElementsByClassName('bodyP')).map(e => {
+                return { field: e.getAttribute('name'), value: e.value }
+            });
+            let body = {
+                x: data.find(a => a.field == 'x').value,
+                y: data.find(a => a.field == 'y').value,
+            }
+            return body;
+        }
+
+        $('.getMul').on("click", (() => {
+            $('.content').empty();
+            var xhr = new XMLHttpRequest();
+            xhr.open("POST", 'https://localhost:44380/mul', true);
+            let values = getFormBody(); //Передает правильный заголовок в запросе
+            xhr.setRequestHeader("Content-type", "application/x-www-form-urlencoded");
+
+            xhr.onreadystatechange = function () {//Вызывает функцию при смене состояния.
+                if (xhr.readyState == XMLHttpRequest.DONE && xhr.status == 200) {
+                    $(".content").append(xhr.responseText);
+                }
+            }
+            xhr.send(`x=${values.x}&y=${values.y}`);
+        }));
+    </script>
+</body>
+</html>

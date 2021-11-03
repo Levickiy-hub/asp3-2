@@ -1,0 +1,23 @@
+﻿@using _04.Models
+@{
+    Layout = null;
+    Phone delete = ViewBag.delete;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>Delete</title>
+</head>
+<body>
+    <div>
+        <p>Name: @delete.FirstName @delete.LastName; Phone: +@delete.Number</p>
+        <form action="/Phone/DeleteSave" method="post">
+            <input type="text" name="Id" id="id" value="@delete.PhoneId" readonly />
+            <input type="submit" value="Delete" />
+        </form>
+    </div>
+</body>
+</html>

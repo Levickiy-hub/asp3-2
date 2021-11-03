@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "WWgOw3gfK93G+AwjIDLo+tQlwUt3k1xntyRQqQfhUtZKtqB0B6BQJ0bRTWAbYM+cHOYQmbZRgedR6kc1Cf5ung==",
+  "success": true,
+  "projectFilePath": "D:\\6sem\\ASP\\lab6\\DB_MSSQL\\DB_MSSQL.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Unix\\.nuget\\packages\\entityframework\\6.4.4\\entityframework.6.4.4.nupkg.sha512",
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\Unix\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

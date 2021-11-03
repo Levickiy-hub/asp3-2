@@ -1,0 +1,12 @@
+D:\6sem\ASP\lab6\PhoneDictionary\bin\Debug\PhoneDictionary.dll
+D:\6sem\ASP\lab6\PhoneDictionary\bin\Debug\PhoneDictionary.pdb
+D:\6sem\ASP\lab6\PhoneDictionary\obj\Debug\PhoneDictionary.csprojAssemblyReference.cache
+D:\6sem\ASP\lab6\PhoneDictionary\obj\Debug\PhoneDictionary.csproj.CoreCompileInputs.cache
+D:\6sem\ASP\lab6\PhoneDictionary\obj\Debug\PhoneDictionary.dll
+D:\6sem\ASP\lab6\PhoneDictionary\obj\Debug\PhoneDictionary.pdb
+D:\Trash\3-2\ASP\6\lab6\PhoneDictionary\bin\Debug\PhoneDictionary.dll
+D:\Trash\3-2\ASP\6\lab6\PhoneDictionary\bin\Debug\PhoneDictionary.pdb
+D:\Trash\3-2\ASP\6\lab6\PhoneDictionary\obj\Debug\PhoneDictionary.csproj.CoreCompileInputs.cache
+D:\Trash\3-2\ASP\6\lab6\PhoneDictionary\obj\Debug\PhoneDictionary.dll
+D:\Trash\3-2\ASP\6\lab6\PhoneDictionary\obj\Debug\PhoneDictionary.pdb
+D:\Trash\3-2\ASP\6\lab6\PhoneDictionary\obj\Debug\PhoneDictionary.csproj.AssemblyReference.cache

@@ -1,0 +1,45 @@
+﻿@model PhoneDictionary.Phone
+
+@{ ViewBag.Title = "Delete";
+   Layout = "~/Views/Shared/_Layout.cshtml"; }
+
+@section Header {
+    <h3>Удалить запись в телефонном справочнике? </h3>
+}
+
+<div>
+    <hr />
+    <dl>
+        <dt>
+            @Html.DisplayNameFor(model => model.Name)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Name)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Phone_number)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Phone_number)
+        </dd>
+
+    </dl>
+
+    @using (Html.BeginForm())
+    {
+        @Html.AntiForgeryToken()
+
+            <div>
+                <input type="submit" value="Удалить" />
+                <br />
+                <br />
+                    @Html.ActionLink("К списку телефонов", "Index")
+            </div>
+     }
+
+  
+
+</div>
